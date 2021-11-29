@@ -62,6 +62,9 @@ main .col-left{
 }
 
 main .col-center{
+    /* width: 60%;
+    margin: 0px 20px; */
+
     width: 60%;
     padding: 0px 20px;
 }
